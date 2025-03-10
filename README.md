@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69dced3f-2024-4098-991a-721d770dff66">
+</p>
+
 # 하루 끝 - AI를 활용한 일기 서비스
 
 ### 📌 프로젝트 소개
